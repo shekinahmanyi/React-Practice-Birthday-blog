@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+            "title":"My First Blog",
+            "body": "This is Just a First Blog",
+            "author":"Achidi",
+            "id":1
+        },
+        {
+       
+            "title":"Opening Party!",
+            "body": "This is Just a First Blog",
+            "author":"Manyi",
+            "id":2
+        }
+        
+    ]
+}
